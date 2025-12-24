@@ -29,6 +29,8 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
+
+```
 page 1
 <!DOCTYPE html>
 <html>
@@ -559,7 +561,7 @@ page 4
   aspect-ratio: 0.67;
   object-fit: cover;
 }
-
+```
 # OUTPUT:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70c118b4-9449-4e0b-b774-f4e7731b0557" />
 
